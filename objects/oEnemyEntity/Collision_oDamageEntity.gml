@@ -1,0 +1,1 @@
+if !isInvincible applyAttack(other);

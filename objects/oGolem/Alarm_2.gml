@@ -1,0 +1,1 @@
+isInvincible = false;

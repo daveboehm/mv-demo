@@ -1,0 +1,1 @@
+initializeCamera({ target: oPlayer });
